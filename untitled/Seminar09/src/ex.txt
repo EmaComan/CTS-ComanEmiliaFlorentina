@@ -1,0 +1,3 @@
+spital - 5 (adapter) skip
+       - 6 facade
+       - 7 decorator

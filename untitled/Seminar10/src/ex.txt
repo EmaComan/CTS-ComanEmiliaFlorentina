@@ -1,0 +1,7 @@
+banca
+6 - decorator
+7 - facade
+8 - proxy
+9 - composite
+10 - flyweight
+11 - strategy

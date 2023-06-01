@@ -1,0 +1,4 @@
+restaurant
+12 - observer
+13 - state
+14 - template method
